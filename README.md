@@ -6,7 +6,7 @@ Xcode 插件: 自动把 json 转换成 Property 并插入到工程
    ![use](https://raw.githubusercontent.com/witchan/ITModelPlugin/master/Image/use.gif)
 
 ## 安装
-1. 下载 [ITModelPlugin.app.zip📎](https://github.com/witchan/ITModelPlugin/blob/master/ITModelPlugin.app.zip)
+1. 下载 [ITModelPlugin.app.zip📎](https://raw.githubusercontent.com/witchan/ITModelPlugin/master/ITModelPlugin.app.zip)
 2. 解压 `ITModelPlugin.zip`并拖动到`/Applications` 目录
 3. 运行`ITModelPlugin`
 4. 启用 ITModelPlugin
